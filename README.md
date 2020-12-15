@@ -6,11 +6,11 @@ The README file was updated on *12/15/2020*
 ### Project Title
 **Git Hub BikeShare Project**
 
-### Description
+### Project Description
 This project allows a user to analyze data collected from three major cities bikesharing programs!
 
 ### Files used
-Include the files used
+
 1. bikeshare.py 
 2. chicago.csv
 3. new_york_city.csv
