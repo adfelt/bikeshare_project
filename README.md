@@ -1,11 +1,13 @@
 ### Date created
-Include the date you created this project and README file.
+
+The project was created on *11/28/2020*
+The README file was updated on *12/15/2020*
 
 ### Project Title
-Replace the Project Title
+**Git Hub BikeShare Project**
 
 ### Description
-Describe what your project is about and what it does
+This project allows a user to analyze data collected from three major cities bikesharing programs!
 
 ### Files used
 Include the files used
