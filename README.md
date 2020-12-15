@@ -18,5 +18,9 @@ Include the files used
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+**Links** to some outside sources I used.
+
+1. [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html)
+2. [Beginner's Guide to Pandas](https://yoursdata.net/beginners-guide-selections-pandas-dataframe/#:~:text=Pandas%20has%20a%20df.iloc%20method%20which%20we%20can,present%20in%20any%20DataFrame%20by%20using%20df.shape%20%5B0%5D.)
+3. [GeeksforGeeks](https://www.geeksforgeeks.org/python)
 
