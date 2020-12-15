@@ -1,6 +1,7 @@
 ### Date created
 
-The project was created on *11/28/2020*
+The project was created on *11/28/2020* 
+
 The README file was updated on *12/15/2020*
 
 ### Project Title
