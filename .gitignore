@@ -1,0 +1,3 @@
+#Ignoring all the csv files and test enviroments
+*.csv
+*.ipynb
