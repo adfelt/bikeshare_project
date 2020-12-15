@@ -192,7 +192,7 @@ def user_stats(df):
         print(f"The most common year of birth was: {most_common_YOB}")
         print(f"The most recent year of birth was: {most_recent_YOB}")
     else:
-        print('This city has not birth year records.')
+        print('This city has no birth year records.')
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
