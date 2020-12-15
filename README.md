@@ -11,6 +11,11 @@ This project allows a user to analyze data collected from three major cities bik
 
 ### Files used
 Include the files used
+1. bikeshare.py 
+2. chicago.csv
+3. new_york_city.csv
+4. washington.csv
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
