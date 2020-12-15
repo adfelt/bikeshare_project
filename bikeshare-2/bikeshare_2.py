@@ -102,7 +102,7 @@ def time_stats(df):
     start_time = time.time()
     df['Start Time'] = pd.to_datetime(df['Start Time'])
     df['hour'] = df['Start Time'].dt.hour
-    df['month'] = df['Start Time'].dt.month.mode()[0]
+    df['month'] = df['Start Time'].dt.month
     df['day_of_week'] = df['Start Time'].dt.weekday
 
 
