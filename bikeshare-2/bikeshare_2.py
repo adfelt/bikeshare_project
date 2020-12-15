@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
-CITY_DATA = { 'chicago': 'chicago.csv',
+city_data = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
@@ -25,7 +25,7 @@ def get_filters():
     
     while True:
         city = input('Enter the name of the city: ').lower()
-        if city in (CITY_DATA.keys()):
+        if city in (city_data.keys()):
             print(f'You have chosen: {city.capitalize()}')
             break
         else:
