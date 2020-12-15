@@ -198,6 +198,11 @@ def user_stats(df):
 
 #Function that will allow someone to keep viewing the next five lines of raw data.
 def next_five_inputs(df):
+    """This function allows the user to keep viewing the next five lines of raw data until they decide not to.
+        ARGS (If the user would like to see another five lines they simply need to input yes.
+             (If the user would does not want to continue the user will input no)
+            
+            After the user says no they will be asked if they would like to start over."""
     start_time = time.time()
     lower_bound = 5
     upper_bound = 10
